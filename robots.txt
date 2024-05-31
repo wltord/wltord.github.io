@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wltord.github.io/a/sitemap.html
+Sitemap: https://wltord.github.io/b/sitemap.html
+Sitemap: https://wltord.github.io/c/sitemap.html
+Sitemap: https://wltord.github.io/d/sitemap.html
